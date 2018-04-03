@@ -1,5 +1,5 @@
 
-#Did exporting have an effect on firms cash-flow during the crisis?
+#Did exporting have an effect on firms’ investment during the crisis?
 
 rm(list = ls())
 
